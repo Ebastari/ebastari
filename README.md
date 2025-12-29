@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Agung Laksono</h1>
-<h3 align="center">Web Application Developer | Environmental Data & Monitoring Systems</h3>
 
-<p align="center">
-  <em>
-    Building practical web applications to document, monitor, and manage environmental data.
-  </em>
-   Programming Languages
-<p align="center">
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Agung Laksono</h1>
+  <h3 align="center">Web Application Developer | Environmental Data & Monitoring Systems</h3>
+  <p align="center">
+    <em>Building practical web applications to document, monitor, and manage environmental data.</em>
+  </p>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=2E7D32&center=true&vCenter=true&width=800&lines=Web+Application+Developer;Environmental+Monitoring+Systems;Sustainable+Data+Driven+Solutions"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><strong>Programming Languages & Core Tools</strong></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" alt="css3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="50" alt="google" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" alt="git" />
+</div>
+
+<hr />
+
+###  High-Level Engineering Matrix (Montana AI Stack)
+
+| System Domain | Technology Stack | Operational Status |
+| :--- | :--- | :--- |
+| **Core Engine** | <img src="https://img.shields.io/badge/JS_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Status-Stable-3fb950?style=flat-square" /> |
+| **Geospatial AI** | <img src="https://img.shields.io/badge/Sentinel_1-SAR-005AE0?style=flat-square&logo=esa" /> <img src="https://img.shields.io/badge/ArcGIS-E0322F?style=flat-square&logo=arcgis" /> | <img src="https://img.shields.io/badge/Precision-99.2%25-orange?style=flat-square" /> |
+| **Data Pipeline** | <img src="https://img.shields.io/badge/Apps_Script-Automation-4285F4?style=flat-square&logo=google-apps-script" /> <img src="https://img.shields.io/badge/SQL-Mining-lightgrey?style=flat-square&logo=databricks" /> | <img src="https://img.shields.io/badge/Sync-Realtime-blue?style=flat-square" /> |
+| **Mobile Integration** | <img src="https://img.shields.io/badge/Android-SDK-3DDC84?style=flat-square&logo=android" /> <img src="https://img.shields.io/badge/AppSheet-LowCode-4285F4?style=flat-square" /> | <img src="https://img.shields.io/badge/Build-v4.0.2-purple?style=flat-square" /> |
+
+<hr />
+<h3 align="left"> Operational Context & Professional Entity</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Entity-PT_Energi_Batubara_Lestari-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main_Module-Reclamation_Analysis-238636?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Active_Monitoring-3fb950?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol-Revegetation_v2.0-orange?style=for-the-badge&logo=target" />
 </p>
 
+
+
+<h3 align="left"> Geospatial & Analysis Engine</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Responsive-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-green?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Basic-lightgrey?style=for-the-badge&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Engine-Sentinel_1_SAR-blue?style=for-the-badge&logo=google-earth-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-KMZ_Processing-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analysis-Sedimentation_Logic-009688?style=for-the-badge&logo=air-china" />
 </p>
+
+<h3 align="left"> Intelligence & Data Modeling</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Model-Carbon_Stock_Allometric-388E3C?style=for-the-badge&logo=treehouse" />
+  <img src="https://img.shields.io/badge/Framework-Montana_AI_v1.0-FF5722?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelligence-DeepSeek_API-007BFF?style=for-the-badge&logo=probot" />
+  <img src="https://img.shields.io/badge/UI-Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+<br/>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
 </p>
 
+
+
+ 
 
 ---
 
@@ -28,13 +74,11 @@
 
 ####  Montana AI — Smart Land Reclamation & Nursery Monitoring
 
-An interactive web dashboard designed to support **land reclamation, nursery management, and environmental reporting**.
+An interactive, field-oriented web dashboard engineered to support
+land reclamation workflows, nursery operations, and environmental reporting
+through spatially aware and data-driven system design.
 
-**Key highlights:**
-- Field photo capture with coordinate watermark  
-- Spatial data integration (maps & KMZ)  
-- AI-assisted plant analysis and monitoring  
-- Spreadsheet-driven backend for transparency and traceability  
+<p align="left"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="20"/> <b>Field-Based Data Acquisition</b><br/> Implements automated GPS coordinate and timestamp watermarking to ensure verifiable, traceable, and audit-ready field documentation. </p> <p align="left"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20"/> <b>Geospatial Data Integration</b><br/> Integrates interactive mapping, coordinate visualization, and KMZ generation to support spatial analysis and georeferenced reporting. </p> <p align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> <b>AI-Assisted Vegetation Monitoring</b><br/> Applies early-stage analytical models to assess plant growth dynamics, enabling adaptive and data-informed reclamation strategies. </p> <p align="left"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"/> <b>Spreadsheet-Centric Data Architecture</b><br/> Utilizes structured spreadsheets as a transparent, auditable, and extensible backend layer for operational and reporting workflows. </p>
 
  **Live Demo**  
 - Dashboard: https://ebastari.github.io/homeadmin/HOME%20-%20admin.html  
@@ -68,8 +112,15 @@ Activity
 </p>
 
 
-
 ---
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif"
+    width="380"
+    alt="One Piece adventure"
+  />
+</p>
+
 
 <p align="center">
   <em>
@@ -82,80 +133,4 @@ Activity
 </p>
 
 
-
----
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif"
-    width="380"
-    alt="One Piece adventure"
-  />
-</p>
-
-###  About Me
-
-- 🔭 I focus on **web-based environmental monitoring systems**
-- 🌍 My work intersects **software engineering, spatial data, and field operations**
-- 📊 Experienced in **data collection, documentation, and reporting workflows**
-- ♻️ Technology is not only a tool, but a medium for environmental accountability
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
-
-**Backend / Automation**
-- Google Apps Script  
-- Google Sheets (as lightweight database)
-
-**Data & Environment**
-- GPS Coordinates (Lat / Lng)  
-- Photo metadata & EXIF  
-- KML / KMZ  
-- CSV & Excel reporting
-
-**Tools**
-- Git & GitHub  
-- Google Drive Integration  
-
----
-
-###  Featured Projects
-
-- **Environmental Monitoring Web App**  
-  Web-based camera application for field documentation with:
-  - Coordinate watermark on photos  
-  - Automatic upload to Google Drive  
-  - Metadata logging to spreadsheets  
-
-- **Spatial Documentation System**  
-  - Conversion of field data into KMZ  
-  - Location-based photo archiving  
-  - Simple map-based reporting  
-
-- **Digital SOP & Reporting Tools**  
-  - Field activity tracking  
-  - Structured environmental documentation  
-  - Spreadsheet-driven workflows  
-
----
-
-### Principles
-
-- ✅ Practical and field-ready solutions  
-- ✅ Transparent and verifiable data  
-- ✅ Simple architecture, clear workflow  
-- ✅ Environmentally responsible by design  
-
----
-
-###  Connect with Me
-
--  GitHub: [https://github.com/Ebastari](https://github.com/Ebastari)
-
----
 
