@@ -20,10 +20,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=2E7D32&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Agung Laksono;Environmental+Web+Application+Developer;Monitoring+Systems+%7C+Spatial+Data+%7C+Sustainability"/>
-</p>
- 
+
 
 ---
 
