@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ebastari.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-ebastari.github.io-2E7D32?style=for-the-badge" /></a>
-  <a href="https://github.com/Ebastari"><img src="https://img.shields.io/badge/💻_Projects-GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://ebastari.github.io/"><img src="https://img.shields.io/badge/_Portfolio-ebastari.github.io-2E7D32?style=for-the-badge" /></a>
+  <a href="https://github.com/Ebastari"><img src="https://img.shields.io/badge/_Projects-GitHub-181717?style=for-the-badge&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ebastari&style=for-the-badge&color=2E7D32&label=PROFILE+VIEWS" />
 </p>
 
@@ -51,7 +51,7 @@ flagship: Montana AI — HKI No. 001165981 (2026)
 
 <div align="center">
 
-| 🌍 Geospatial | 🤖 AI & Data | 🛠️ Development |
+|  Geospatial |  AI & Data | Development |
 |:---:|:---:|:---:|
 | ![GEE](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E0322F?style=flat-square&logo=arcgis&logoColor=white) | ![YOLO](https://img.shields.io/badge/YOLO-Detection-00FFFF?style=flat-square&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | ![Sentinel](https://img.shields.io/badge/Sentinel_1/2-SAR_+_Optical-005AE0?style=flat-square&logo=esa&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white) | ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![AppsScript](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
@@ -82,29 +82,34 @@ Dashboard lapangan berbasis web untuk monitoring reklamasi, operasional nursery,
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="280">
 
-[![Dashboard](https://img.shields.io/badge/🖥️_LIVE_DASHBOARD-Buka-2E7D32?style=for-the-badge)](https://ebastari.github.io/homeadmin/HOME%20-%20admin.html)
+[![Dashboard](https://img.shields.io/badge/_LIVE_DASHBOARD-Buka-2E7D32?style=for-the-badge)](https://ebastari.github.io/homeadmin/HOME%20-%20admin.html)
 
-[![Tools](https://img.shields.io/badge/🧰_FIELD_TOOLS-Buka-388E3C?style=for-the-badge)](https://ebastari.github.io/)
+[![Tools](https://img.shields.io/badge/_FIELD_TOOLS-Buka-388E3C?style=for-the-badge)](https://ebastari.github.io/)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+  <img src="https://user-images.githubusercontentstudio.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </p>
 
-## 🐍 Contribution Snake
+##  Contribution Snake Game
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebastari/ebastari/output/github-snake-dark.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ebastari/ebastari/output/github-snake.svg">
-  </picture>
-  <br/><br/>
-  <a href="https://ebastari.github.io/snake-game.html">
-    <img src="https://img.shields.io/badge/🎮_MAINKAN_VERSI_INTERAKTIF-Pause_•_Restart_•_Score-39d353?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+### Ular Dimakan Kotak Hijau Dari Contribution History
+
+![snake-game-animation](https://raw.githubusercontent.com/ebastari/ebastari.github.io/main/snake-game.gif)
+
+Ular bergerak otomatis mencari kotak hijau terdekat, setiap kotak yang dimakan berubah abu-abu.
+
+<br/>
+
+<a href="https://ebastari.github.io/snake-game.html">
+  <img src="https://img.shields.io/badge/_MAINKAN_VERSI_INTERAKTIF-Pause_•_Mulai_Ulang_•_Score-39d353?style=for-the-badge&logo=github&logoColor=white" alt="Play interactive snake game" />
+</a>
+
 </div>
 
 <br/>
@@ -126,12 +131,12 @@ Dashboard lapangan berbasis web untuk monitoring reklamasi, operasional nursery,
 
 <br/>
 
-## 🌱 Core Principles
+##  Core Principles
 
 <div align="center">
 
-| 🎯 | 🔍 | 🧩 | ♻️ |
-|:---:|:---:|:---:|:---:|
+
+
 | **Practical** | **Transparent** | **Maintainable** | **Sustainable** |
 | Field-oriented solutions | Verifiable environmental data | Simple system design | Technology serving nature |
 
